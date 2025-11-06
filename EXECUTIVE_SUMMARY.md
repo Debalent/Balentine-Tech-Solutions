@@ -50,7 +50,7 @@ Revolutionary **AI-powered multi-studio** combining:
 ### **Unique Business Model**
 - **Live-In Studio**: Founder residence eliminates $18K/year housing + 24/7 availability
 - **Multi-Studio Integration**: Only provider offering dev + media + filming
-- **Proven Portfolio**: $775K-$3.25M immediate revenue potential from existing applications
+- **Immediate Revenue Portfolio**: $775K-$3.25M ready-to-market applications requiring only marketing investment
 - **Dual Market Strategy**: Corporate (NW Arkansas) or Community Impact (SE Michigan)
 
 ---
@@ -105,12 +105,18 @@ Technical leader with extensive software development experience and portfolio of
 
 ## 💰 **Investment Opportunity**
 
-### **Funding Request**: $1.5M Series A
+### **Use of Funds**: $1.5M Series A
 **Use of Funds**:
-- **40%** ($600K): Studio facility setup and infrastructure
-- **30%** ($450K): Initial team hiring (2-3 key positions)
-- **20%** ($300K): Marketing and business development
-- **10%** ($150K): Working capital and contingency
+- **30%** ($450K): High-level marketing campaigns for existing portfolio applications
+- **25%** ($375K): Studio facility setup and infrastructure
+- **25%** ($375K): Initial team hiring (2-3 key positions)
+- **15%** ($225K): Business development and market expansion
+- **5%** ($75K): Working capital and contingency
+
+### **Immediate ROI Acceleration**
+- **Month 1-3**: Portfolio marketing launch generating immediate revenue
+- **Month 4-8**: Break-even from combined portfolio + service revenue
+- **Month 9-12**: Cash flow positive with scaling operations
 
 ### **Investor Returns**
 - **Break-even**: Month 8
