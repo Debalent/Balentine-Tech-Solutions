@@ -43,6 +43,16 @@ Currently pursuing my education at Atlas School in Tulsa, with graduation planne
 - **Industry Best Practices**: Understanding enterprise-grade development standards
 - **Innovation Mindset**: Staying ahead of technology trends and opportunities
 
+### **Financial Discipline Through Adversity**
+Having experienced financial hardship firsthand, I've learned the critical importance of disciplined money management, resourcefulness, and capital efficiency. This experience taught me to maximize value from every dollar, find creative solutions with limited resources, and build sustainable operations without waste.
+
+**Key Financial Lessons**:
+- **Capital Efficiency**: Making every dollar count and delivering maximum value
+- **Resourcefulness**: Finding quality solutions at lower costs (used equipment, strategic partnerships)
+- **Cash Flow Management**: Understanding the critical importance of revenue timing and expense control
+- **Lean Operations**: Building profitable businesses without unnecessary overhead
+- **Investment Priority**: Focusing resources on revenue-generating activities first
+
 ---
 
 ## 🎯 **Why This Story Matters for BTS**
