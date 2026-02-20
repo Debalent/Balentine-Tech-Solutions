@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Balentine Tech Solutions (BTS)
 ## SaaS Platform for Complete Digital Transformation
 
@@ -222,3 +223,6 @@ Founder & Technical Lead
 ---
 
 *Building the future of integrated digital transformation - one comprehensive solution at a time.*
+=======
+# Balentine-Tech-Solutions
+>>>>>>> 53e9a4d01cd85c2b17d75b3f7b4dd3ae6b566045
