@@ -954,12 +954,60 @@ section > * {
     justify-content: center;
     margin-bottom: var(--spacing-lg);
     overflow: hidden;
+    position: relative;
+    transition: all var(--transition-slow);
+}
+
+.image-placeholder::before {
+    content: '';
+    position: absolute;
+    inset: -2px;
+    background: var(--gradient-primary);
+    border-radius: var(--radius-2xl);
+    opacity: 0;
+    transition: opacity var(--transition-slow);
+    z-index: 0;
+}
+
+.image-placeholder:hover::before {
+    opacity: 1;
+    animation: rotate 3s linear infinite;
+}
+
+.image-placeholder:hover {
+    transform: scale(1.02);
+    box-shadow: 0 20px 40px rgba(99, 102, 241, 0.3);
+}
+
+@keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
 }
 
 .profile-image {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    position: relative;
+    z-index: 1;
+    border-radius: var(--radius-2xl);
+    transition: all var(--transition-slow);
+    animation: fadeInScale 0.8s ease-out;
+}
+
+@keyframes fadeInScale {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.image-placeholder:hover .profile-image {
+    transform: scale(1.05);
 }
 
 .image-placeholder-content {
