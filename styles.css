@@ -707,6 +707,28 @@ a:hover {
    =================================== */
 section {
     padding: var(--spacing-3xl) 0;
+    position: relative;
+}
+
+section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('logo.jpg');
+    background-repeat: repeat;
+    background-size: 200px;
+    background-position: center;
+    opacity: 0.03;
+    pointer-events: none;
+    z-index: 0;
+}
+
+section > * {
+    position: relative;
+    z-index: 1;
 }
 
 .section-header {
