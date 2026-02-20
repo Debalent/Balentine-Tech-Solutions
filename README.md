@@ -1,53 +1,72 @@
-<<<<<<< HEAD
-# Balentine Tech Solutions (BTS)
-## SaaS Platform for Complete Digital Transformation
+# Balentine Tech Solutions
 
-### 🚀 **Complete Business Systems & Online Presence Solutions Under One Roof**
+<div align="center">
 
-Welcome to Balentine Tech Solutions, a comprehensive SaaS platform specializing in custom business systems and online presence solutions. Our unique multi-tiered studio approach combines software development, professional recording, and video production capabilities to deliver complete digital transformation services for businesses and individuals.
+![Balentine Tech Solutions Logo](logo.jpg)
 
----
+![Demond Balentine Sr.](profile-photo.jpg)
 
-## 🎯 **Our Unique Value Proposition**
+**Full-Stack Development Services | Custom Software, Web Apps, SaaS Solutions**
 
-**"Complete Digital Transformation Under One Roof"**
+[Website](https://debalent.github.io/Balentine-Tech-Solutions/) • [LinkedIn](https://www.linkedin.com/in/demond-balentine-sr-481666a7/) • [GitHub](https://github.com/Debalent) • [Email](mailto:balentinetechsolutions@gmail.com)
 
-BTS addresses the $651B+ SMB digital transformation market by solving a critical pain point: businesses need both technical systems AND professional content, but can't afford enterprise agencies or manage multiple vendors.
-
-### **Key Advantages:**
-- **One-Stop Solution**: Custom software development, recording, and video production integrated seamlessly
-- **Cost-Effective**: Eliminates vendor juggling and reduces costs vs. hiring separate agencies
-- **Scalable Service Tiers**: From basic SaaS solutions to full-service custom development with multimedia production
-- **Remote-First Operations**: Lean operational model with bi-monthly team collaboration at Gradient workspace
-
-### **Target Market:**
-- 71% of small businesses lack professional websites
-- Video content demand up 85% year-over-year
-- Most agencies specialize in only ONE area - BTS fills this gap with integrated expertise
+</div>
 
 ---
 
-## 📋 **Business Documentation**
+## 🚀 **About**
 
-### **📊 [Executive Summary](./EXECUTIVE_SUMMARY.md)**
-**One-page overview for investors and partners**
-- SaaS business model and market opportunity
-- Multi-tiered studio concept and competitive advantages
-- Financial projections and growth strategy
-- Founder background and technical expertise
+Balentine Tech Solutions offers professional full-stack development services for businesses ready to scale. From custom web applications to enterprise SaaS platforms—built with modern tech, delivered with precision.
 
-### **📈 [Comprehensive Business Plan](./BUSINESS_PLAN_5YEAR.md)**
-**Detailed 5-year roadmap and operational strategy**
-- SaaS platform development with multi-tiered capabilities
-- Remote-first operational model and cost efficiency
-- Year-by-year financial projections ($200K → $5M+ revenue)
-- Scalable talent strategies and team development
-- Technology infrastructure and competitive positioning
+**Founded by Demond Balentine Sr.** - A full-stack developer combining military discipline, corporate insight, and cutting-edge technical training from Atlas School in Tulsa.
 
-### **🎯 [Competitive Analysis](./COMPETITIVE_ANALYSIS.md)**
-**Market positioning and competitive advantages**
-- Comprehensive competitor analysis across service categories
-- Unique multi-tiered studio positioning
+### **What Sets Us Apart**
+- ✨ **AI-Enhanced Development**: Advanced workflows that accelerate delivery
+- 🎯 **Founder Mentality**: Direct access to the founder on every project
+- 🏆 **Featured**: Atlas School marketing materials
+- 🤝 **Professionally Advised**: Oklahoma Small Business Development Center (OKSBDC)
+- 🏢 **Member**: Gradient - Tulsa's premier innovation workspace
+
+---
+
+## 💼 **Services**
+
+### Full-Stack Development
+- Custom Web Applications (Next.js, React, TypeScript)
+- SaaS Platform Development
+- Database Design & API Development
+- Real-time Features & WebSockets
+
+### AI-Enhanced Solutions
+- AI-Assisted Development Workflows
+- Intelligent Automation Features
+- RAG & Agentic AI Patterns
+- Advanced AI Integration
+
+### DevOps & Deployment
+- CI/CD Pipeline Setup
+- Docker & Containerization
+- AWS/GCP Cloud Deployment
+- Monitoring & Analytics
+
+---
+
+## 📞 **Contact**
+
+**Email**: balentinetechsolutions@gmail.com  
+**Phone**: (479) 250-2573  
+**LinkedIn**: [Demond Balentine Sr.](https://www.linkedin.com/in/demond-balentine-sr-481666a7/)  
+**GitHub**: [Debalent](https://github.com/Debalent)
+
+---
+
+<div align="center">
+
+**Graduating Atlas School - July 2026**
+
+*Building the future, one line of code at a time.*
+
+</div>
 - Pricing strategy and value proposition validation
 - Market gaps and opportunities
 
