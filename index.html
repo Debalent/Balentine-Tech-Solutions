@@ -13,26 +13,41 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Redesigned Navigation -->
-    <header class="header">
-        <div class="container">
-            <a href="#" class="logo">
-                <img src="logo.jpg" alt="BTS Logo">
-                <span>Balentine Tech Solutions</span>
+    <!-- Navigation -->
+    <nav class="nav" id="nav">
+        <div class="container nav-container">
+            <a href="#home" class="logo">
+                <img src="logo.jpg" alt="BTS" class="logo-image">
+                <span class="logo-text">Balentine Tech Solutions</span>
             </a>
-            <nav class="nav">
-                <ul>
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#projects">Projects</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </nav>
+            <div class="nav-menu" id="navMenu">
+                <a href="#home" class="nav-link active">Home</a>
+                <a href="#projects" class="nav-link">Projects</a>
+                <a href="#about" class="nav-link">About</a>
+                <a href="#services" class="nav-link">Services</a>
+                <a href="#blog" class="nav-link">Insights</a>
+                <a href="#contact" class="nav-link">Contact</a>
+            </div>
+            <div class="nav-actions">
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                    <svg class="sun-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <circle cx="10" cy="10" r="3" stroke="currentColor" stroke-width="2"/>
+                        <path d="M10 1v2M10 17v2M19 10h-2M3 10H1M16.364 16.364l-1.414-1.414M5.05 5.05L3.636 3.636M16.364 3.636l-1.414 1.414M5.05 14.95l-1.414 1.414" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                    <svg class="moon-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
         </div>
-    </header>
+    </nav>
 
-    <!-- Redesigned Hero Section -->
+    <!-- Hero Section -->
     <section class="hero">
         <div class="container">
             <h1>Welcome to Balentine Tech Solutions</h1>
@@ -41,11 +56,27 @@
         </div>
     </section>
 
-    <!-- Redesigned Footer -->
+    <!-- Footer -->
     <footer class="footer">
         <div class="container">
             <p>&copy; 2026 Balentine Tech Solutions. All rights reserved.</p>
         </div>
     </footer>
+
+    <!-- Animations -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const elements = document.querySelectorAll('.nav-link, .btn');
+            elements.forEach(el => {
+                el.style.transition = 'all 0.3s ease-in-out';
+                el.addEventListener('mouseover', () => {
+                    el.style.transform = 'scale(1.1)';
+                });
+                el.addEventListener('mouseout', () => {
+                    el.style.transform = 'scale(1)';
+                });
+            });
+        });
+    </script>
 </body>
 </html>
