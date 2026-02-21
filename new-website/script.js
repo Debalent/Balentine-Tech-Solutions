@@ -2,10 +2,16 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('Balentine Tech Solutions website loaded successfully.');
 
     const themeToggle = document.getElementById('themeToggle');
+    const navToggle = document.getElementById('navToggle');
+    const navMenu = document.querySelector('.nav-menu');
     const body = document.body;
 
     themeToggle.addEventListener('click', () => {
         body.classList.toggle('light-theme');
+    });
+
+    navToggle.addEventListener('click', () => {
+        navMenu.classList.toggle('active');
     });
 
     const sections = document.querySelectorAll('.fade-in');
